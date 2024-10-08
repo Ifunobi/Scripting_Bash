@@ -6,17 +6,17 @@
 
 This project contains a set of Linux shell scripts designed to automate various system administration and infrastructure tasks. It simplifies common operations like file management, backups, process monitoring, and network diagnostics.
 
-**Features**
+#### Features
 
 Automated Backups: Script to back up critical system files and directories.
 Process Monitoring: Track resource usage and identify rogue processes.
 Network Diagnostics: Automated network health checks and troubleshooting tools.
 File Management: Bulk file renaming, sorting, and permission management.
 
-**Prerequisites**
+#### Prerequisites
 Ensure the scripts are executable:
 **chmod +x script-name.sh**
 
-**Usage**
+#### Usage
 To run a script, use the following format:
-**./script-name.sh** or **bash script-name.sh**
+*./script-name.sh* or *bash script-name.sh*
