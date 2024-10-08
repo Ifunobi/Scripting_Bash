@@ -14,9 +14,11 @@ Network Diagnostics: Automated network health checks and troubleshooting tools.
 File Management: Bulk file renaming, sorting, and permission management.
 
 #### Prerequisites
-Ensure the scripts are executable:
-**chmod +x script-name.sh**
+Ensure the scripts are executable: 
+
+*chmod +x script-name.sh*
 
 #### Usage
 To run a script, use the following format:
+
 *./script-name.sh* or *bash script-name.sh*
